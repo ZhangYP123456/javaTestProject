@@ -4,6 +4,7 @@ public class Test01 {
         System.out.println("hahaha");
         int[] test1 = {1,12,33};
 
-        System.out.println(test1[0]);
+        System.out.println("haha:"+test1[0]);
+
     }
 }
